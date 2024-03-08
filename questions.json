@@ -5,14 +5,6 @@
   "questions": [
     {
       "topic": "React",
-      "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
-      "correctOption": 1,
-      "points": 10,
-      "id": "0f69"
-    },
-    {
-      "topic": "React",
       "question": "Which company invented React?",
       "options": ["Google", "Apple", "Netflix", "Facebook"],
       "correctOption": 3,
